@@ -21,9 +21,3 @@ elif a==4:
 
     print(df)
 
-# elif a==2:
-#     exec('Batch.csv')
-# elif a==3:
-#     exec('Course.csv')
-# elif a==4:
-#     exec('Department.csv')
