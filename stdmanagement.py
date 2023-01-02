@@ -400,7 +400,7 @@ for i in range(student_no):
         print()
         print("The subjects are [Problem Solving with Python,Math,Physics,Chemistry,Biology,English]")
         print('please enter the subjects marks in the above mentioned order in a list type and if you dont have a particular subject write there "null" (e.g. [100,100,"null",75,69,85])')
-        print('Each Subject is ot of 100 marks')
+        print('Each Subject is out of 100 marks')
         print()
         marks_lst=eval(input("Enter the Marks list : "))
         total_marks=add(marks_lst)
