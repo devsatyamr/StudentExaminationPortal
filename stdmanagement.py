@@ -14,7 +14,7 @@ path='C:/StudentManagement_main-folder'
 
 
 
-#All the Functions used Throughout the code
+
 def percent(num):
     if stream.lower()=='cse' or stream.lower()=='cseai' or stream.lower()=='cseaiml' or stream.lower()=='cseiotcsbs':
         num=(num*100)//600
