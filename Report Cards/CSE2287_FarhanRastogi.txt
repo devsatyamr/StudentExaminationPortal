@@ -1,0 +1,14 @@
+Name of the student : Farhan Rastogi 
+Class Roll of the student : 87 
+Stream of the student : CSE 
+Your Student ID is : CSE2287
+
+Marks obtained in Problem Solving with Python is : 80 
+Marks obtained in Math is : 79 
+Marks obtained in Physics is : 88 
+Marks obtained in Chemistry is : 75 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 96 
+
+You have got 516 in total with 86%
+You have passed the exam with grade B.

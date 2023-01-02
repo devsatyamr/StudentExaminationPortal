@@ -1,0 +1,14 @@
+Name of the student : Devsatyam Ray 
+Class Roll of the student : 61 
+Stream of the student : CSE 
+Your Student ID is : CSE2261
+
+Marks obtained in Problem Solving with Python is : 74 
+Marks obtained in Math is : 86 
+Marks obtained in Physics is : 77 
+Marks obtained in Chemistry is : 79 
+Marks obtained in Biology is : 72 
+Marks obtained in English is : 88 
+
+You have got 476 in total with 79%
+You have passed the exam with grade C.

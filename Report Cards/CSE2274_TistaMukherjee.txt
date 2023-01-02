@@ -1,0 +1,14 @@
+Name of the student : Tista Mukherjee 
+Class Roll of the student : 74 
+Stream of the student : CSE 
+Your Student ID is : CSE2274
+
+Marks obtained in Problem Solving with Python is : 88 
+Marks obtained in Math is : 86 
+Marks obtained in Physics is : 97 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 97 
+
+You have got 534 in total with 89%
+You have passed the exam with grade B.

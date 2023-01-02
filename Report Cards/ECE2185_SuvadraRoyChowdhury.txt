@@ -1,0 +1,14 @@
+Name of the student : Suvadra Roy Chowdhury 
+Class Roll of the student : 85 
+Stream of the student : ECE 
+Your Student ID is : ECE2185
+
+Marks obtained in Problem Solving with Python is : 75 
+Marks obtained in Math is : 88 
+Marks obtained in Physics is : 94 
+Marks obtained in Chemistry is : 52 
+Marks obtained in Biology is : 77 
+Marks obtained in English is : 76 
+
+You have got 462 in total with 92%
+You have passed the exam with grade C.

@@ -1,0 +1,14 @@
+Name of the student : Indrava Chowdhury 
+Class Roll of the student : 50 
+Stream of the student : CSE 
+Your Student ID is : CSE2250
+
+Marks obtained in Problem Solving with Python is : 88 
+Marks obtained in Math is : 98 
+Marks obtained in Physics is : 99 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 65 
+Marks obtained in English is : 99 
+
+You have got 527 in total with 87%
+You have passed the exam with grade B.

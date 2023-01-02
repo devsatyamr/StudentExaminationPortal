@@ -1,0 +1,14 @@
+Name of the student : Abhirup Kundu 
+Class Roll of the student : 45 
+Stream of the student : ECE 
+Your Student ID is : ECE2145
+
+Marks obtained in Problem Solving with Python is : 78 
+Marks obtained in Math is : 89 
+Marks obtained in Physics is : 77 
+Marks obtained in Chemistry is : 88 
+Marks obtained in Biology is : 96 
+Marks obtained in English is : 100 
+
+You have got 528 in total with 105%
+You have passed the exam with grade B.

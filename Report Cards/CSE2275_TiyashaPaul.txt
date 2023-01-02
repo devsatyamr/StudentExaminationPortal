@@ -1,0 +1,14 @@
+Name of the student : Tiyasha Paul 
+Class Roll of the student : 75 
+Stream of the student : CSE 
+Your Student ID is : CSE2275
+
+Marks obtained in Problem Solving with Python is : 98 
+Marks obtained in Math is : 77 
+Marks obtained in Physics is : 54 
+Marks obtained in Chemistry is : 84 
+Marks obtained in Biology is : 89 
+Marks obtained in English is : 63 
+
+You have got 465 in total with 77%
+You have passed the exam with grade C.
